@@ -1,3 +1,7 @@
+<h1 align="center">Mohd Faraaz Kalim</h1>
+<h3 align="center">Full-Stack Developer | Java • Python • Backend Engineering</h3>
+
+
 # 💫 About Me:
 🔭 I’m currently working on Full-stack web applications using Java, Python, React, Node.js, and building real-time IoT & cloud-integrated systems.<br><br>👯 I’m looking to collaborate on Full-stack projects, open-source contributions, and real-world problem-solving applications.<br><br>🤝 I’m looking for help with Improving system design, scalable backend architecture, and industry best practices.<br><br>🌱 I’m currently learning Advanced Java, backend engineering, React.js, and cloud-based application development.<br><br>💬 Ask me about Java, Python, REST APIs, full-stack development, and IoT-based systems.<br><br>⚡ Fun fact I enjoy turning academic and prototype ideas into practical, real-world applications.
 
@@ -17,5 +21,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=faraaz0786&icon=1&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
